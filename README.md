@@ -1,6 +1,6 @@
 # Porfolio Landing Page
 
-A standalone web page,created specifically for the purpose of marketing.It is designed with a single focused objective to call to action, {17th,March,2018}
+A standalone web page,created specifically for the purpose of marketing.It is designed with a single focused objective to call to action.
 By Wambuilucy
 # Description
 
