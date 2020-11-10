@@ -11,7 +11,9 @@ This is a standalone web page with a list of projects created and actively linke
 This program is easy to install and does not require any specifications for installation
 Computer with i5 processor
 This site can be viewed at https://github.com/Wambuilucy/Portfolio2
+
 ## Known Bugs
+
 It does not have bugs.If any found, kindly reach out to me.
 
 ### Technologies Used
@@ -22,6 +24,7 @@ During development of this project HTML and CSS were used to give it style and d
 {In the event of an error during running of this program, have any queries or even want to contribute to the code ;-kindly contact the developer using wambuilucie99@gmail.com}
 
 ### License
+
 {Author claims no ownership of images used on this webpage or images on pages linked from this page.}
 
 {Standard Licence} Copyright (c) {2018} {Wambuilucy Co.}
