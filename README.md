@@ -1,7 +1,7 @@
 # Porfolio Landing Page
 
 A standalone web page,created specifically for the purpose of marketing.It is designed with a single focused objective to call to action, {17th,March,2018}
-By Sarah Marion
+By Wambuilucy
 # Description
 
 This is a standalone web page with a list of projects created and actively linked to Github and Github pages using both HTML and CSS. It also includes information on work experience and hobbies.
